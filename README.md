@@ -1,7 +1,9 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="230" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19f1535b-749b-4a8e-8640-d429f027cd3c/de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5ZjE1MzViLTc0OWItNGE4ZS04NjQwLWQ0MjlmMDI3Y2QzY1wvZGUwNGY1Zi02MWE0ZWQzMC0wMjY5LTRiN2QtYmY5MC04NWMwNDYxOTM0NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CLEU3cu8m4v-1KBoYaUXJUKTuZI7WVWuNn1xo7uGUQY">
 
-✨I'm Co-founder of AutomatifAI, a company that makes Whatsapp/Telegram Chatbots with automations and AI<br>🔭 I’m currently working as a OpenSees Developer and an RPA Developer<br>👯 I’m looking to collaborate on software creation
+✨ I'm the Co-founder of AutomatifAI, where we specialize in creating AI-driven WhatsApp and Telegram chatbots with advanced automations.<br>
+🔭 Currently, I'm working as a Developer for OpenSees and an RPA Developer.<br>
+👯 I'm looking to collaborate on innovative software projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j_larenas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-larenas-993005124) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@joselarenas) 
