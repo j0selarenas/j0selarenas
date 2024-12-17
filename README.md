@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a dedicated professional thriving at the inter
 
 - 📫 How to reach me **joseluislarenas@gmail.com**
 
-- 📫 How to reach my company **automatifai@gmail.com**
+- 📫 How to reach my company **joselarenas@automatifai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
