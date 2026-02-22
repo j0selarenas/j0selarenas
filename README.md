@@ -56,7 +56,7 @@ I build at the intersection of AI and finance. Chilean engineer turned entrepren
 
 ### Connect
 
-📧 **joselarenas@automatifai.com** · **joseluislarenas@gmail.com**
+📧 **joseluislarenas@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/jose-larenas-993005124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-larenas-993005124" height="30" width="40" /></a>
