@@ -4,7 +4,7 @@ I build systems that help businesses grow, and then I run them.
 
 I'm a Chilean engineer and Penn State Smeal MBA. I currently lead **Strategy & Operations at American Chain of Warehouses (ACWI)**, where I work across business development, AI-assisted research, automation, and operations in the U.S. and Mexico.
 
-Before ACWI, I founded [AutomatifAI](https://automatifai.com), a B2B AI SaaS company. My background also includes investment banking and private equity at Kaiross, financial process automation at Sisua Digital, and structural engineering software development.
+Before ACWI, I founded AutomatifAI, a B2B AI SaaS company. My background also includes investment banking and private equity at Kaiross, financial process automation at Sisua Digital, and structural engineering software development.
 
 I like owning problems from the initial business case through implementation and results. I'm as comfortable on a discovery call as I am writing Python.
 
