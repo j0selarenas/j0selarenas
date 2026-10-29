@@ -1,50 +1,68 @@
 ## Hey, I'm Jose
 
-I build AI agents, automation, and software for finance and ops teams.
+I build systems that help businesses grow, and then I run them.
 
-Chilean engineer turned founder. Currently finishing my MBA at Penn State Smeal (May 2026), where I'm working with two professors on AI-native financial modeling under a school grant. Founder of [AutomatifAI](https://automatifai.com), a profitable B2B SaaS that puts AI agents on top of WhatsApp for customer service teams.
+I'm a Chilean engineer and Penn State Smeal MBA. I currently lead **Strategy & Operations at American Chain of Warehouses (ACWI)**, where I work across business development, AI-assisted research, automation, and operations in the U.S. and Mexico.
 
-More context: [joselarenas.notion.site/latest](https://joselarenas.notion.site/latest)
+Before ACWI, I founded [AutomatifAI](https://automatifai.com), a B2B AI SaaS company. My background also includes investment banking and private equity at Kaiross, financial process automation at Sisua Digital, and structural engineering software development.
 
----
-
-### What I'm building right now
-
-**FinModel API** — pulls 10-K data from SEC EDGAR and generates DCF, LBO, and comparable analyses you can audit line by line. In private beta with MBA students at Smeal.
-
-**DealScope** — AI deal screener that produces structured investment memos from 10-K filings in under 3 minutes.
-
-**MarketPulse** — B2B API that synthesizes FRED economic data and prediction market odds into AI-generated macro briefings.
-
-All three are part of the Smeal AI Grant projects. Code is moving from private to public over the next few months.
-
-**AutomatifAI** is closed-source but happy to talk about the architecture. Multi-LLM (GPT, Claude, Gemini) routing layer in Python, Redis caching, ~5K requests/day, low-latency design. The interesting parts are model routing for cost vs quality tradeoffs and a structured discovery framework that cuts client deployment from 8 weeks to 24 hours.
+I like owning problems from the initial business case through implementation and results. I'm as comfortable on a discovery call as I am writing Python.
 
 ---
 
-### Stack I actually use
+### What I'm working on
 
-**Day to day:** Python, FastAPI, PostgreSQL, Redis, Docker, AWS
+**ACWI | Strategy, growth & automation**
 
-**For AI work:** OpenAI API, Anthropic API, Google Gemini API, LangChain (sparingly), pgvector
+- Run commercial outreach across 30+ campaigns and 4,600+ prospects in the U.S. and Mexico.
+- Built an AI-assisted research and qualification process that has delivered 200+ company-level prospect handoffs to member warehouses.
+- Develop Python data workflows and KPI dashboards, lead three student researchers, and work on membership growth and U.S.–Mexico business development.
 
-**Finance/data:** pandas, numpy, openpyxl, VBA when I have to
+**Penn State Smeal | Applied AI for finance**
 
-**Engineering background:** C++ (wrote OpenSees finite element code during my master's thesis), MATLAB, Fortran (legacy seismic research)
+Working with faculty on three projects funded by the Smeal AI Exploration Grant:
+
+- **FinModel API:** Uses SEC EDGAR filings to generate auditable DCF, LBO, and comparable-company analyses.
+- **DealScope:** AI-assisted investment screening and structured investment memos from 10-K filings.
+- **MarketPulse:** Macro briefings combining FRED economic data and prediction-market information.
+
+The research repositories are currently private.
+
+**AutomatifAI | Founder (2024–2026)**
+
+Built a B2B AI SaaS company that reached 10+ corporate clients, 90% gross margin, and 100% client retention.
+
+The platform used Python, GPT, Claude, Gemini, and Redis to handle approximately 5,000 daily requests. Beyond the software, I developed reusable automation frameworks that reduced client deployment time from eight weeks to under 24 hours.
+
+---
+
+### Tech I actually use
+
+**Backend & automation:** Python, FastAPI, PostgreSQL, Redis, Docker, AWS, SQL
+
+**AI:** OpenAI API, Anthropic API, Gemini API, LangChain, pgvector, AI agents, workflow automation
+
+**Finance & data:** pandas, NumPy, openpyxl, VBA, financial modeling, data analysis
+
+**Engineering background:** C++, MATLAB, Fortran, OpenSees, finite element analysis
 
 ---
 
 ### Background
 
-- Penn State Smeal MBA, May 2026
-- MS in Engineering Sciences, Universidad de los Andes, 2024 (Distinción Máxima, Beca de Mérito Completa)
-- BS Civil Engineering, Universidad de los Andes, 2022 (Distinción Máxima, Beca de Mérito Completa)
-- Ex-IB intern at Kaiross (boutique IB in Santiago)
-- Ex-RPA developer at Sisua Digital (year of UiPath + Python automation for LatAm finance teams)
+- **MBA**, Penn State Smeal College of Business, 2026
+- **MS in Engineering Sciences**, Universidad de los Andes, 2024 (Highest Distinction, full merit scholarship)
+- **Civil Engineering**, Universidad de los Andes, 2022 (Highest Distinction, full merit scholarship)
+- **Investment Banking & Private Equity Intern**, Kaiross
+- **RPA Developer & Business Process Analyst**, Sisua Digital
+- **OpenSees Developer**, Asdea Software Technology
 
 ---
 
 ### Reach me
 
-📧 joseluislarenas@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/joselarenas) · [Notion profile](https://joselarenas.notion.site/latest) · [AutomatifAI](https://automatifai.com)
+I'm interested in Strategy & Operations, AI and automation leadership, technical project management, GTM, and business development opportunities. Open to U.S. remote roles and relocation.
+
+**Email:** joseluislarenas@gmail.com
+
+**LinkedIn:** [linkedin.com/in/joselarenas](https://linkedin.com/in/joselarenas)
